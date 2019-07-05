@@ -1,0 +1,1 @@
+alert("Selamat Datang diWeb Seadanya Panji");
